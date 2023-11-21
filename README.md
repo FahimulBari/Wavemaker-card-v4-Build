@@ -5,7 +5,7 @@ This is a 'mayasky76'. Open source story writing software. Which has an online v
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/wavemakercards/wavemaker-cards-v4](https://github.com/FahimulBari/Webmaker-card-v4-Build/">
+  <a href="https://github.com/FahimulBari/Webmaker-card-v4-Build/">
     <img src="blob/master/img/icons/favicon-32x32.png" alt="Logo" width="80" height="80">
   </a>
 
