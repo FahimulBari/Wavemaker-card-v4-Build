@@ -1,6 +1,14 @@
 # Webmaker-card-v4-Build
 This is a project by 'mayasky76', Open source story writing software. Which has an online version too. I've just built the local version. So that anyone can download it. And use it. The below segment is from the original repository.
 
+# Note
+### For some reason, I've faced problems with the Chrome browser. But worked in Microsoft Edge & Brave.
+
+# Website
+I am an indie game developer. If you are interested check out some games. (Nothing fancy)
+[Visit My Website](https://www.fahimulbarisstudio.com/)
+
+
 
 <!-- PROJECT LOGO -->
 <br />
