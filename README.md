@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/FahimulBari/Webmaker-card-v4-Build/">
+  <a href="https://github.com/wavemakercards/wavemaker-cards-v4/">
     <img src="img/icons/android-chrome-192x192.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -22,6 +22,8 @@
     <a href="https://github.com/wavemakercards/wavemaker-cards-v4/issues">Request Feature</a>
   </p>
 </p>
+
+
 
 
 # Webmaker-card-v4-Build
