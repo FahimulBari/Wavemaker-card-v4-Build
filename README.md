@@ -31,7 +31,3 @@ This is a project by 'mayasky76', Open source story writing software. Which has 
 
 # Note
 ### For some reason, I've faced problems with the Chrome browser. But worked in Microsoft Edge & Brave.
-
-# Website
-I am an indie game developer. If you are interested check out some games. (Nothing fancy)
-[Visit My Website](https://www.fahimulbarisstudio.com/)
